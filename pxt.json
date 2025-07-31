@@ -1,12 +1,11 @@
 {
   "name": "hextodec",
-  "description": "A simple extension to convert hexadecimal values to decimal.",
+  "description": "Custom blocks for bit manipulation and hex-to-decimal conversion.",
   "dependencies": {
     "core": "*"
   },
   "files": [
     "hextodec.ts"
   ],
-  "testFiles": [],
   "public": true
 }
