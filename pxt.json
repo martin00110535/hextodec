@@ -1,0 +1,12 @@
+{
+  "name": "hextodec",
+  "description": "A simple extension to convert hexadecimal values to decimal.",
+  "dependencies": {
+    "core": "*"
+  },
+  "files": [
+    "main.ts"
+  ],
+  "testFiles": [],
+  "public": true
+}
